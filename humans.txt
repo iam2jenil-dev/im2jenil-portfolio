@@ -1,0 +1,10 @@
+/* TEAM */
+Developer: Jenil Moradiya (Im2Jenil)
+Contact: iam2jenil.dev@gmail.com
+GitHub: https://github.com/iam2jenil-dev
+Location: Ahmedabad, Gujarat, India
+
+/* SITE */
+Type: Personal developer portfolio
+Standards: HTML5, CSS3, JavaScript
+Fonts: IBM Plex Sans, IBM Plex Mono

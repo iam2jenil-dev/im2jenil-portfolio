@@ -1,0 +1,26 @@
+# Jenil Moradiya (Im2Jenil)
+
+> Jenil Moradiya, also known online as Im2Jenil, is a diploma student in Computer Engineering from Ahmedabad, Gujarat, India. He builds Discord bots, does hosting and server-side work, helps run Discord communities, and is learning cloud engineering (AWS, Microsoft Azure, IPv4 networking).
+
+## Summary
+
+- Name: Jenil Moradiya (Patel). Online alias: Im2Jenil. GitHub username: iam2jenil-dev
+- Location: Ahmedabad, Gujarat, India
+- Study: Diploma in Computer Engineering
+- Role: Student developer (personal and community projects, 5+ small apps and Discord bots)
+- Community role: Community Specialist (Discord staff at Moonbase and HorridHenry, handling moderation and staff management)
+- Tools: HTML, CSS, TypeScript, React, Node.js
+- Cloud: AWS, Microsoft Azure, Botnixcloud
+- Learning: Cloud basics, IPv4, going deeper
+- Experience: No formal job experience yet; student and community work only
+
+## Links
+
+- [GitHub](https://github.com/iam2jenil-dev): code and projects
+- [Discord](https://dsc.gg/im2jenil): community and contact
+- [Résumé (PDF)](resume/Jenil-Moradiya-Resume.pdf): full résumé
+- [Portfolio home](index.html): about, experience, contact
+
+## Contact
+
+- Email: iam2jenil.dev@gmail.com
